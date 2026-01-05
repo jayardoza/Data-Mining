@@ -1,0 +1,63 @@
+ProductID,ProductName,ProductDescription,SKU,Brand,Category,Department
+1,Lasagna,Lasagna 6.5 oz,90706287103,Cold Gourmet,Food,Grocery
+2,Beef Stew,Beef Stew 6 oz,16005393282,Cold Gourmet,Food,Grocery
+3,Turkey Dinner,Turkey Dinner 8 oz,57986858339,Frozen Bird,Food,Grocery
+4,Chicken Dinner,Chicken Dinner 8 oz,67955177490,Frozen Bird,Food,Grocery
+5,More Nougat,Extra Nougat 2 oz,46817560065,Chewy Industries,Food,Grocery
+6,Lots of Nuts,Lots of Nuts 2 oz,84276830332,Chewy Industries,Food,Grocery
+7,Sweet Teeth,Sweet Tooth 2 oz,51770124461,Chewy Industries,Food,Grocery
+8,Fizzy Light,Fizzy Light 6 oz,33411763259,Big Can,Drinks,Grocery
+9,Fizzy Classic,Fizzy Classic 6 oz,95946398896,Big Can,Drinks,Grocery
+10,Athletic Drink,Athletic Drink 6 oz,88602993232,Big Can,Drinks,Grocery
+11,Strong Cola,Strong Cola 8 oz,59015963215,National Bottle,Drinks,Grocery
+12,Clear Refresher,Clear Refresher 6 oz,94794170004,National Bottle,Drinks,Grocery
+13,Paper Towels,Paper Towels 8 oz,22563048263,Squeezable Inc,Paper Products,Household
+14,Dry Tissues,Dry Tissues 5 oz,20716427467,Squeezable Inc,Paper Products,Household
+15,Wet Wipes,Wet Wipes 8 oz,65053589655,Squeezable Inc,Supplies,Household
+16,Salty Corn,Salty Corn 2 oz,80323441322,American Corn,Food,Grocery
+17,Dried Grits,Dried Grits 2 oz,15536655574,American Corn,Food,Grocery
+18,Power Chips,Power Chips 3 oz,44513822387,American Corn,Food,Grocery
+19,Onion Slices,Onion Slices 3 oz,49269095527,Western Vegetable,Food,Grocery
+20,Buffalo Jerky,Buffalo Jerky 3 oz,40806606950,Western Vegetable,Food,Grocery
+21,Lasagna,Lasagna 9 oz,35932897460,Cold Gourmet,Food,Grocery
+22,Beef Stew,Beef Stew 9 oz,34551157058,Cold Gourmet,Food,Grocery
+23,Turkey Dinner,Turkey Dinner 12 oz,71307965759,Frozen Bird,Food,Grocery
+24,Chicken Dinner,Chicken Dinner 12 oz,25464035081,Frozen Bird,Food,Grocery
+25,Extra Nougat,Extra Nougat 3 oz,98524228144,Chewy Industries,Food,Grocery
+26,Lots of Nuts,Lots of Nuts 3 oz,24247989491,Chewy Industries,Food,Grocery
+27,Sweet Tooth,Sweet Tooth 3 oz,10787621276,Chewy Industries,Food,Grocery
+28,Fizzy Light,Fizzy Light 9 oz,92822703206,Big Can,Drinks,Grocery
+29,Fizzy Classic,Fizzy Classic 9 oz,74695428497,Big Can,Drinks,Grocery
+30,Athletic Drink,Athletic Drink 9 oz,48530259240,Big Can,Drinks,Grocery
+31,Strong Cola,Strong Cola 12 oz,10478516528,National Bottle,Drinks,Grocery
+32,Clear Refresher,Clear Refresher 9 oz,89835195915,National Bottle,Drinks,Grocery
+33,Paper Towels,Paper Towels 12 oz,62974321939,Squeezable Inc,Paper Products,Household
+34,Dry Tissues,Dry Tissues 7.5 oz,43507173902,Squeezable Inc,Paper Products,Household
+35,Wet Wipes,Wet Wipes 12 oz,92028763643,Squeezable Inc,Supplies,Household
+36,Salty Corn,Salty Corn 3 oz,54983505685,American Corn,Food,Grocery
+37,Dried Grits,Dried Grits 3 oz,11184804406,American Corn,Food,Grocery
+38,Power Chips,Power Chips 4.5 oz,51364643658,American Corn,Food,Grocery
+39,Onion Slices,Onion Slices 4.5 oz,72546822646,Western Vegetable,Food,Grocery
+40,Buffalo Jerky,Buffalo Jerky 4.5 oz,37331588167,Western Vegetable,Food,Grocery
+41,Lasagna,Lasagna 13.5 oz,84302852271,Cold Gourmet,Food,Grocery
+42,Beef Stew,Beef Stew 13.5 oz,23430942207,Cold Gourmet,Food,Grocery
+43,Turkey Dinner,Turkey Dinner 18 oz,77016028053,Frozen Bird,Food,Grocery
+44,Chicken Dinner,Chicken Dinner 18 oz,83931167559,Frozen Bird,Food,Grocery
+45,Extra Nougat,Extra Nougat 4.5 oz,76234081227,Chewy Industries,Food,Grocery
+46,Lots of Nuts,Lots of Nuts 4.5 oz,85681418862,Chewy Industries,Food,Grocery
+47,Sweet Tooth,Sweet Tooth 4.5 oz,32943352203,Chewy Industries,Food,Grocery
+48,Fizzy Light,Fizzy Light 13.5 oz,59632819867,Big Can,Drinks,Grocery
+49,Fizzy Classic,Fizzy Classic 13.5 oz,64758233722,Big Can,Drinks,Grocery
+50,Athletic Drink,Athletic Drink 13.5 oz,63998140597,Big Can,Drinks,Grocery
+51,Strong Cola,Strong Cola 18 oz,78532224693,National Bottle,Drinks,Grocery
+52,Clear Refresher,Clear Refresher 13.5 oz,26124581284,National Bottle,Drinks,Grocery
+53,Paper Towels,Paper Towels 18 oz,99257418302,Squeezable Inc,Paper Products,Household
+54,Dry Tissues,Dry Tissues 11.2 oz,46205094999,Squeezable Inc,Paper Products,Household
+55,Wet Wipes,Wet Wipes 18 oz,26231258086,Squeezable Inc,Supplies,Household
+56,Salty Corn,Salty Corn 4.5 oz,21628878100,American Corn,Food,Grocery
+57,Dried Grits,Dried Grits 4.5 oz,55681968175,American Corn,Food,Grocery
+58,Power Chips,Power Chips 6.7 oz,43992125296,American Corn,Food,Grocery
+59,Onion Slices,Onion Slices 6.7 oz,50616533214,Western Vegetable,Food,Grocery
+60,Buffalo Jerky,Buffalo Jerky 6.7 oz,69467630292,Western Vegetable,Food,Grocery
+48,Diet Fizzy,Diet Fizzy 12 oz Can,59632811234,Big Can,Drinks,Grocery
+49,Fizzy Zero,Fizzy Zero 12 oz Can,59632234321,Big Can,Drinks,Grocery

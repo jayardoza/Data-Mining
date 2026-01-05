@@ -1,0 +1,11 @@
+1.00,"Blue Ribbon Discounts","Temporary","Daily Paper","None","None","Paper",2000.00
+2.00,"Red Carpet Closeout","Markdown","Sunday Paper","None","None","Paper",1000.00
+3.00,"Ad Blitz","None","Paper and Radio","None","None","Paper and Radio",7000.00
+4.00,"Ads and Racks","None","Paper and Radio","Rack","None","Paper and Radio",3000.00
+5.00,"Shelf Talkers","None","None","Shelf Tag","None","None",500.00
+6.00,"POS Grabbers","None","None","Register","None","None",600.00
+7.00,"Two for One","Coupon Only","Sunday Paper","None","Paper","Paper",1000.00
+8.00,"Cents Off Coupon","Coupon Only","Mailer","None","Mailer","None",1000.00
+9.00,"Redemption","Redemption Only","Attached","None","Attached","None",5000.00
+10.00,"Big Promo","Temporary","Daily Paper","End Aisle","None","Paper",8000.00
+11.00,"No Promotion","None","None","None","None","None",0.00
